@@ -2,9 +2,7 @@
  
 Certainly! Below is a sample `README.md` file for your React JS code:
 
----
-
-# American Airlines Website Clone
+----
 
 This project is a clone of the American Airlines website, built using ReactJS.
 
