@@ -13,9 +13,10 @@ function Banner() {
           Please be aware that we strictly adhere to the 24-hour free ticket
           change and cancellation policy.
           <br />
+          <br />
           If you want to change your current flight schedule, or you move to the
-          new flight schedule, or changing the date, etc. you are responsible
-          for paying the applicable fare difference.
+          new flight schedule, or changing the date, etc. and you are
+          responsible for paying the applicable fare difference.
         </p>
       </div>
     </div>
